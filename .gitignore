@@ -3,4 +3,5 @@ __pycache__
 
 # IDE configuration
 .idea/
-
+.ipynb_checkpoints/
+.vscode/
