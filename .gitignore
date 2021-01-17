@@ -1,5 +1,7 @@
 # Byte-compiled
 __pycache__
+# Image-file
+*.png
 
 # IDE configuration
 .idea/
